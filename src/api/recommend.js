@@ -22,7 +22,7 @@ export function getDiscList() {
     g_tk: 1195101619,
     loginUin: 340509592,
     hostUin: 0,
-    format: 'jsonp',
+    format: 'json',
     notice: 0,
     platform: 'yqq',
     needNewCode: 0,
